@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch SpringbackendApplication",
+            "request": "launch",
+            "mainClass": "com.jsgrewal.springbackend.SpringbackendApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringdemoApplication<springdemo>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.jsgrewal.springdemo.SpringdemoApplication",
+            "projectName": "springdemo",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringbackendApplication<springbackend>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.jsgrewal.springbackend.SpringbackendApplication",
+            "projectName": "springbackend",
+            "args": ""
+        }
+    ]
+}
